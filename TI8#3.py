@@ -1,12 +1,3 @@
-"""
-PROGRAM DATETIME
-Nama : Elsa Aiziyah
-NIM  : 21305144025
-Kelas: Matematika E
-
-Input:
-Ouput:
-"""
 print("-"*34)
 print("Program usia(hari, tanggal, bulan)")
 print("-"*34)
